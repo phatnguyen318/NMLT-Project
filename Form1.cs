@@ -16,5 +16,10 @@ namespace AppQLBH
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int b = 0;
+        }
     }
 }
